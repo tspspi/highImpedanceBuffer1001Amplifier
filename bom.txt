@@ -1,0 +1,13 @@
+#	FarnellNo	Title																								Unit price		Price
+2	1076296		BNC Connector																				 2.920				 5.840
+1	2519856		100 R +- 0.1%, 100 mW																 0.883				 0.883
+1	2328114		100 mR																							 0.114				 1.114
+2	3117744		THS4304																							 6.030				12.060
+2	1759412		3.3 uF																							 0.165				 0.825
+2	1740665		0.1 uF																							 0.0953				 0.953
+4	3282195		Ferrite Beds																				 0.026			   0.104
+1 	1698986		Banenstecker Buchse 4mm, grün												 1.89					 1.89
+1 	1698983		Banenstecker Buchse 4mm, schwarz										 1.89					 1.89
+1 	1698982		Banenstecker Buchse 4mm, rot												 1.89					 1.89
+2	2285354		Zener-Diode, 3 V, 1 W, SOD-123F											 0.0832				0.1664
+2 	1822219		Rückstellbare Sicherung, PPTC, 2016 (550 mA)				 0.9520				1.9040
