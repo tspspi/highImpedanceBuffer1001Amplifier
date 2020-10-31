@@ -6,7 +6,9 @@ amplifying amplifier.
 
 This circuit has been designed to measure the beam profile of
 an low current electron beam. The shunt has been designed as wire
-resistor to be easily adaptable
+resistor to be easily adaptable. The OpAmps have been selected
+with up to 1 GHz bandwidth to allow for measurement of deflection
+frequency inside an modulated beam.
 
 ![PCB layout](./amplifier.png)
 
